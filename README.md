@@ -228,33 +228,6 @@ Sou **Engenheiro de Dados / Analista de Dados Jr** e trabalho para que o dado ch
   
 
 <br/> 
-
-  
-
-<!-- ===================== TROPHIES ===================== --> 
-
-<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
-
-  
-
-## 🏆 &nbsp;Conquistas 
-
-  
-
-<div align="center"> 
-
-  
-
-<img src="https://github-profile-trophy.vercel.app/?username=banciella&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/> 
-
-  
-
-</div> 
-
-  
-
-<br/> 
-
   
 
 <!-- ===================== SNAKE ===================== --> 
