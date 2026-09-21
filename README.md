@@ -1,30 +1,28 @@
- <!-- ===================== BANNER ===================== --> 
+<!-- ===================== BANNER ===================== --> 
 
 <div align="center"> 
 
   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Felipe%20Banciella&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Felipe%20Banciella&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Engenheiro%20de%20Dados%20%7C%20Analista%20de%20Dados&descAlignY=52&descSize=20&animation=fadeIn" width="100%"/> 
 
   
 
 <!-- ===================== TYPING ANIMATION ===================== --> 
 
-<a href="https://linkedin.com/in/banciella"> 
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+%2F+Analista+de+Dados+Jr;Python+%7C+SQL+%7C+Spark+%7C+Databricks;Pipelines+em+Azure+e+AWS;Do+dado+bruto+ao+insight" alt="Typing SVG"/> 
-
-</a> 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Engenheiro+de+Dados+%2F+Analista+de+Dados+Jr;Transformo+dado+bruto+em+decis%C3%A3o;Python+%7C+SQL+%7C+Spark+%7C+Databricks;Pipelines+em+Azure+e+AWS" alt="Typing SVG"/> 
 
   
 
-<br/> 
+<br/><br/> 
 
   
 
-<img src="https://komarev.com/ghpvc/?username=banciella&style=flat-square&color=1f6feb&label=PROFILE+VIEWS"/> 
+<a href="https://linkedin.com/in/banciella"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a> 
 
-<img src="https://img.shields.io/github/followers/banciella?style=flat-square&color=1f6feb&labelColor=0d1117&logo=github"/> 
+<a href="https://github.com/banciella"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a> 
+
+<img src="https://komarev.com/ghpvc/?username=banciella&style=for-the-badge&color=1f6feb&label=VISITAS"/> 
 
   
 
@@ -38,41 +36,39 @@
 
 <!-- ===================== SOBRE MIM ===================== --> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Sobre mim 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
 
   
 
-```python 
-
-class FelipeBanciella: 
-
-    def __init__(self): 
-
-        self.role      = "Engenheiro de Dados / Analista de Dados Jr" 
-
-        self.stack     = ["Python", "SQL", "Spark", "Databricks", "Azure", "AWS"] 
-
-        self.focus     = ["Data Pipelines", "ETL/ELT", "Business Intelligence"] 
-
-        self.linkedin  = "linkedin.com/in/banciella" 
+## 👋 &nbsp;Sobre mim 
 
   
 
-    def current_work(self): 
-
-        return "Construindo pipelines de dados de ponta a ponta" 
-
-``` 
+<img align="right" width="320" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/hero.png"/> 
 
   
 
-- 🧱 Trabalho com **ingestão, transformação e modelagem de dados** — do batch ao analytics. 
+Sou **Engenheiro de Dados / Analista de Dados Jr** e trabalho para que o dado chegue limpo, confiável e pronto para decisão. 
 
-- ☁️ Construo pipelines em **Azure Databricks** e **AWS**, orquestrando com **Airflow** e empacotando com **Docker**. 
+  
 
-- 📊 Traduzo dado em decisão com **Power BI** e **Power Query**. 
+🧱 &nbsp;Construo **pipelines de dados** de ponta a ponta — ingestão, tratamento e modelagem. 
 
-- 🎯 Foco atual: arquitetura Medallion, Spark e boas práticas de engenharia de dados. 
+  
+
+☁️ &nbsp;Atuo com **Azure Databricks** e **AWS**, orquestrando com **Airflow** e empacotando com **Docker**. 
+
+  
+
+📊 &nbsp;Entrego o resultado em **Power BI** e **Power Query**, do dado cru ao indicador. 
+
+  
+
+🎯 &nbsp;Foco atual: **arquitetura Medallion**, **Spark** e boas práticas de engenharia de dados. 
+
+  
+
+<br clear="right"/> 
 
   
 
@@ -82,6 +78,10 @@ class FelipeBanciella:
 
 <!-- ===================== TECNOLOGIAS ===================== --> 
 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
+
 ## 🛠️ &nbsp;Tecnologias 
 
   
@@ -90,7 +90,9 @@ class FelipeBanciella:
 
   
 
-### Linguagens & Processamento 
+**Linguagens & Processamento** 
+
+  
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF"/> 
 
@@ -100,9 +102,11 @@ class FelipeBanciella:
 
   
 
-### Cloud & Plataformas 
+**Cloud & Plataformas** 
 
-<img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=58A6FF"/> 
+  
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge&logo=icloud&logoColor=58A6FF"/> 
 
 <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=58A6FF"/> 
 
@@ -110,7 +114,9 @@ class FelipeBanciella:
 
   
 
-### Orquestração & Infra 
+**Orquestração & Infraestrutura** 
+
+  
 
 <img src="https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF"/> 
 
@@ -118,7 +124,9 @@ class FelipeBanciella:
 
   
 
-### BI & Analytics 
+**BI & Analytics** 
+
+  
 
 <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF"/> 
 
@@ -136,6 +144,10 @@ class FelipeBanciella:
 
 <!-- ===================== PROJETOS ===================== --> 
 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
+
 ## 🚀 &nbsp;Projetos 
 
   
@@ -146,13 +158,15 @@ class FelipeBanciella:
 
 <a href="https://github.com/banciella/Data-Pipeline-Sales-Chocolate-"> 
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Data-Pipeline-Sales-Chocolate-&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=10"/> 
+  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/chocolate_card.png"/> 
 
 </a> 
 
+  
+
 <a href="https://github.com/banciella/Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-"> 
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=10"/> 
+  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/azure_card.png"/> 
 
 </a> 
 
@@ -160,7 +174,7 @@ class FelipeBanciella:
 
 <a href="https://github.com/banciella/Supply_Chain_Analytics"> 
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Supply_Chain_Analytics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=10"/> 
+  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/supply_card.png"/> 
 
 </a> 
 
@@ -174,23 +188,11 @@ class FelipeBanciella:
 
   
 
-| Projeto | Stack | Link | 
-
-|:--|:--|:--:| 
-
-| **Chocolate Data Pipeline** | Python · SQL · Pandas | [Repositório](https://github.com/banciella/Data-Pipeline-Sales-Chocolate-) | 
-
-| **Big Data Pipeline — Azure Databricks (Medallion)** | Azure · Databricks · Spark | [Repositório](https://github.com/banciella/Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-) | 
-
-| **Supply Chain Analytics** | Python · SQL · Power BI | [Repositório](https://github.com/banciella/Supply_Chain_Analytics) | 
-
-  
-
-<br/> 
-
-  
-
 <!-- ===================== GITHUB STATS ===================== --> 
+
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
 
 ## 📊 &nbsp;GitHub Stats 
 
@@ -200,17 +202,9 @@ class FelipeBanciella:
 
   
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=banciella&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=10"/> 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=banciella&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12"/> 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banciella&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&border_radius=10"/> 
-
-  
-
-<br/><br/> 
-
-  
-
-<img height="165" src="https://streak-stats.demolab.com?user=banciella&theme=transparent&background=0d1117&border=1f6feb&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/> 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banciella&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&border_radius=12"/> 
 
   
 
@@ -218,7 +212,15 @@ class FelipeBanciella:
 
   
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=banciella&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=false&border_color=1f6feb&radius=10"/> 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=banciella&background=0d1117&border=1f6feb&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=12"/> 
+
+  
+
+<br/><br/> 
+
+  
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=banciella&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=false&border_color=1f6feb&radius=12"/> 
 
   
 
@@ -232,7 +234,11 @@ class FelipeBanciella:
 
 <!-- ===================== TROPHIES ===================== --> 
 
-## 🏆 &nbsp;GitHub Trophies 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
+
+## 🏆 &nbsp;Conquistas 
 
   
 
@@ -254,7 +260,11 @@ class FelipeBanciella:
 
 <!-- ===================== SNAKE ===================== --> 
 
-## 🐍 &nbsp;Contribution Snake 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
+
+## 🐍 &nbsp;Minhas contribuições 
 
   
 
@@ -262,15 +272,7 @@ class FelipeBanciella:
 
   
 
-<picture> 
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/banciella/banciella/output/github-snake-dark.svg"/> 
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/banciella/banciella/output/github-snake.svg"/> 
-
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/banciella/banciella/output/github-snake.svg"/> 
-
-</picture> 
+<img src="https://raw.githubusercontent.com/banciella/banciella/output/github-snake-dark.svg" width="100%" alt="snake"/> 
 
   
 
@@ -282,9 +284,13 @@ class FelipeBanciella:
 
   
 
-<!-- ===================== REDES SOCIAIS ===================== --> 
+<!-- ===================== CONTATO ===================== --> 
 
-## 🌐 &nbsp;Onde me encontrar 
+<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
+
+  
+
+## 🤝 &nbsp;Vamos conversar 
 
   
 
@@ -294,13 +300,15 @@ class FelipeBanciella:
 
 <a href="https://linkedin.com/in/banciella"> 
 
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/> 
+  <img src="https://img.shields.io/badge/LinkedIn-%20%2Fin%2Fbanciella-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117"/> 
 
 </a> 
 
+&nbsp; 
+
 <a href="https://github.com/banciella"> 
 
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/> 
+  <img src="https://img.shields.io/badge/GitHub-%20%40banciella-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117"/> 
 
 </a> 
 
@@ -320,88 +328,12 @@ class FelipeBanciella:
 
   
 
-> *"Dado bruto não vale nada. Pipeline bem feito, sim."* 
+### *"Dado bruto não vale nada. Pipeline bem feito, sim."* 
 
   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=130&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=ffffff&fontAlignY=75"/> 
 
   
 
-</div> 
-
-  
-
-  
-
-.github/workflows/snake.yml 
-
-Crie este arquivo no mesmo repositorio, no caminho .github/workflows/snake.yml 
-
-  
-
-name: Generate Snake Animation 
-
-  
-
-on: 
-
-  schedule: 
-
-    - cron: "0 */12 * * *" 
-
-  workflow_dispatch: 
-
-  push: 
-
-    branches: 
-
-      - main 
-
-  
-
-jobs: 
-
-  generate: 
-
-    runs-on: ubuntu-latest 
-
-    permissions: 
-
-      contents: write 
-
-    steps: 
-
-      - name: Generate snake svg 
-
-        uses: Platane/snk/svg-only@v3 
-
-        with: 
-
-          github_user_name: banciella 
-
-          outputs: | 
-
-            dist/github-snake.svg 
-
-            dist/github-snake-dark.svg?palette=github-dark 
-
-  
-
-      - name: Push to output branch 
-
-        uses: crazy-max/ghaction-github-pages@v4 
-
-        with: 
-
-          target_branch: output 
-
-          build_dir: dist 
-
-        env: 
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-
-  
-
- 
+</div>
