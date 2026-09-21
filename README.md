@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7bZQ8kP.png" alt="Banner Felipe Banciella" width="100%">
+  <img src="[https://i.imgur.com/7bZQ8kP.png](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Felipe+Banciella;Engenheiro+de+Dados+Jr;Analista+de+Dados+Jr;)" alt="Banner Felipe Banciella" width="100%">
 </p>
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Felipe+Banciella;💻+Engenheiro+de+Dados+Jr;📊+Analista+de+Dados+Jr;🚀+Apaixonado+por+Big+Data+e+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Felipe+Banciella;💻+Engenheiro+de+Dados+Jr;📊+Analista+de+Dados+Jr;alt="Typing SVG" />
 </h1>
 
 ---
@@ -71,7 +71,7 @@ Meu foco é construir pipelines de dados robustos, soluções de analytics e arq
 
 ## 🐍 Snake Contribution
 <p align="center">
-  <img src="https://github.com/banciella/banciella/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="(https://github.com/banciella/banciella/blob/output/github-contribution-grid-snake.svg)" />
 </p>
 
 ---
