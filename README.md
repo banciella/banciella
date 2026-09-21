@@ -1,7 +1,6 @@
 <!-- ===================== BANNER ===================== --> 
 
 <div align="center"> 
-
   
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Felipe%20Banciella&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Engenheiro%20de%20Dados%20%7C%20Analista%20de%20Dados&descAlignY=52&descSize=20&animation=fadeIn" width="100%"/> 
