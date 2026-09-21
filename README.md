@@ -1,91 +1,27 @@
-<!-- Banner -->
-<p align="center">
-  <img src="[https://i.imgur.com/7bZQ8kP.png](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Felipe+Banciella;Engenheiro+de+Dados+Jr;Analista+de+Dados+Jr;)" alt="Banner Felipe Banciella" width="100%">
-</p>
+<!-- ===================== BANNER ===================== -->
+<div align="center">
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Felipe+Banciella;💻+Engenheiro+de+Dados+Jr;📊+Analista+de+Dados+Jr;alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Felipe%20Banciella&fontSize=48&fontColor=ffffff&fontAlignY=32&descgineer%20%7C%20Data%20Analyst&descAlignY=52&descSize=18&animation=fadeIn
 
----
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="https://linkedin.com/in/banciella">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+%2F+Analista+de+Dados+Jr;Python+%7C+SQL+%7C+Spark+%7C+Databricks;Pipelines+em+Azure+e+AWS;Do+dado+bruto+ao+insight" alt="Typing SVG"/ghpvc/?username=banciella&style=flat-square&color=1f6feb&label=PROFILE+VIEWS"/>
+<img src="g.shields.io/github/followers/banciella?style=flat-square&color=1f6feb&labelColor=0d1117&logo=github"/>
 
-## 👤 Sobre mim
-Sou **Felipe Banciella**, Engenheiro de Dados Jr e Analista de Dados Jr.  
-Tenho experiência em **Python, SQL, Power BI, Power Query, Databricks, Azure, AWS, Spark, AirFlow e Docker**.  
-Meu foco é construir pipelines de dados robustos, soluções de analytics e arquiteturas escaláveis em nuvem.  
+</div>
 
----
+<br/>
 
-## 🛠️ Tecnologias
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/AirFlow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<!-- ===================== SOBRE MIM ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"bre mim
 
----
+```python
+class FelipeBanciella:
+    def __init__(self):
+        self.role      = "Engenheiro de Dados / Analista de Dados Jr"
+        self.stack     = ["Python", "SQL", "Spark", "Databricks", "Azure", "AWS"]
+        self.focus     = ["Data Pipelines", "ETL/ELT", "Business Intelligence"]
+        self.linkedin  = "linkedin.com/in/banciella"
 
-## 🚀 Projetos em Destaque
-<p align="center">
-  <a href="https://github.com/banciella/Data-Pipeline-Sales-Chocolate-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Data-Pipeline-Sales-Chocolate-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/banciella/Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/banciella/Supply_Chain_Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=banciella&repo=Supply_Chain_Analytics&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banciella&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banciella&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banciella&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=banciella&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=banciella&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Snake Contribution
-<p align="center">
-  <img src="(https://github.com/banciella/banciella/blob/output/github-contribution-grid-snake.svg)" />
-</p>
-
----
-
-## 🌐 Redes Sociais
-<p align="center">
-  <a href="https://linkedin.com/in/banciella">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Rodapé
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=Obrigado+por+visitar+meu+perfil!;Sempre+aprendendo+e+compartilhando+conhecimento." alt="Typing Footer" />
-</p>
+    def current_work(self):
+        return "Construindo pipelines de dados de ponta a ponta"
