@@ -185,51 +185,6 @@ Sou **Engenheiro de Dados / Analista de Dados Jr** e trabalho para que o dado ch
 
 <br/> 
 
-  
-
-<!-- ===================== GITHUB STATS ===================== --> 
-
-<img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
-
-  
-
-## 📊 &nbsp;GitHub Stats 
-
-  
-
-<div align="center"> 
-
-  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=banciella&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12"/> 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banciella&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&border_radius=12"/> 
-
-  
-
-<br/><br/> 
-
-  
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=banciella&background=0d1117&border=1f6feb&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=12"/> 
-
-  
-
-<br/><br/> 
-
-  
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=banciella&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=false&border_color=1f6feb&radius=12"/> 
-
-  
-
-</div> 
-
-  
-
-<br/> 
-  
-
 <!-- ===================== SNAKE ===================== --> 
 
 <img src="https://raw.githubusercontent.com/banciella/banciella/main/assets/divider.png" width="100%"/> 
