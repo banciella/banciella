@@ -47,23 +47,17 @@
 
   
 
-Sou **Engenheiro de Dados / Analista de Dados Jr** e trabalho para que o dado chegue limpo, confiável e pronto para decisão. 
+👋 Sobre mim
 
-  
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Supply Chain na Unilever, trabalhando com dados, automações e melhoria de processos.
 
-🧱 &nbsp;Construo **pipelines de dados** de ponta a ponta — ingestão, tratamento e modelagem. 
+📊 No dia a dia, desenvolvo soluções utilizando Power BI, Power Query e Power Automate, transformando dados operacionais em informações úteis para análise e tomada de decisão.
 
-  
+💻 Também venho aprofundando meus conhecimentos em Python, SQL e Engenharia de Dados, com projetos envolvendo APIs, Databricks, Delta Lake, bancos de dados e processamento de dados.
 
-☁️ &nbsp;Atuo com **Azure Databricks** e **AWS**, orquestrando com **Airflow** e empacotando com **Docker**. 
+☁️ Possuo as certificações OCI Foundations Associate e DP-750 Azure Databricks Data Engineer Associate, complementando minha formação em tecnologias de dados e cloud.
 
-  
-
-📊 &nbsp;Entrego o resultado em **Power BI** e **Power Query**, do dado cru ao indicador. 
-
-  
-
-🎯 &nbsp;Foco atual: **arquitetura Medallion**, **Spark** e boas práticas de engenharia de dados. 
+🚀 Atualmente, estou direcionando minha carreira para Dados, buscando evoluir principalmente em Data Analytics e Data Engineering por meio de projetos práticos e aprendizado contínuo.
 
   
 
