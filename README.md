@@ -45,9 +45,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/hero.png"/> 
 
-  
 
-👋 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Supply Chain na Unilever, trabalhando com dados, automações e melhoria de processos.
 
