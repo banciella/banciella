@@ -147,8 +147,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
 
   
 <a href="https://github.com/banciella/Weather-Food-Recommendation">
-    <img src="Weather.png" alt="Weather-Food-Recommendation-with-IA" width="720">
-  
+  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/Weather.png" alt="Weather-Food-Recommendation-with-IA"/>
 </a>
 
 
