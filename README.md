@@ -146,14 +146,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
 <div align="center"> 
 
   
-
-<a href="https://github.com/banciella/Data-Pipeline-Sales-Chocolate-"> 
-
-  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/chocolate_card.png"/> 
-
-</a> 
-
+<a href="https://github.com/banciella/Weather-Food-Recommendation">
+    <img src="Weather.png" alt="Weather-Food-Recommendation-with-IA" width="720">
   
+</a>
+
 
 <a href="https://github.com/banciella/Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-"> 
 
