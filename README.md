@@ -9,7 +9,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== --> 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Engenheiro+de+Dados+%2F+Analista+de+Dados+Jr;Transformo+dado+bruto+em+decis%C3%A3o;Python+%7C+SQL+%7C+Spark+%7C+Databricks;Pipelines+em+Azure+e+AWS" alt="Typing SVG"/> 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Engenheiro+de+Dados+%2F+Analista+de+Dados+Jr;Transformo+dado+bruto+em+decis%C3%A3o;Python+%7C+SQL+%7C+Spark+%7C+Databricks" alt="Typing SVG"/> 
 
   
 
@@ -110,8 +110,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
   
 
 <img src="https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF"/> 
-
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58A6FF"/> 
 
   
 
