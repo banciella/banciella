@@ -149,14 +149,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
 </a>
 
 
-<a href="https://github.com/banciella/Big-Data-Pipeline-Azure-Databricks-Medallion-Architecture-"> 
-
-  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/azure_card.png"/> 
-
-</a> 
-
-  
-
 <a href="https://github.com/banciella/Supply_Chain_Analytics"> 
 
   <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/supply_card.png"/> 
