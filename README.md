@@ -140,11 +140,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
 
 
 <a href="https://github.com/banciella/Supply_Chain_Analytics"> 
-
   <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/supply_card.png"/> 
 
 </a> 
 
+<a href="https://github.com/banciella/ERP-Ferkautoparts">
+  <img width="88%" src="https://raw.githubusercontent.com/banciella/banciella/main/assets/erp_card.png" alt="ERP-Ferkautoparts"/>
+</a>
   
 
 </div> 
