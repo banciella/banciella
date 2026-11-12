@@ -99,20 +99,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Suppl
 
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge&logo=icloud&logoColor=58A6FF"/> 
 
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=58A6FF"/> 
-
 <img src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=58A6FF"/> 
 
-  
-
-**Orquestração & Infraestrutura** 
 
   
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF"/> 
-
-  
-
 **BI & Analytics** 
 
   
